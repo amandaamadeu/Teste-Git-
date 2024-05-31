@@ -1,5 +1,5 @@
-/node_modules
 .env.local
-senhas_secretas.txt
-$ env.local
+biblio_API
+Senha.txt
 .env.teste.local
+/node_test
