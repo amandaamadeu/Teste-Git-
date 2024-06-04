@@ -1,2 +1,2 @@
-function motraNOme(nome)
-    return nome
+function motraNOme(nome){
+    return nome}
