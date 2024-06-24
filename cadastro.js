@@ -3,6 +3,6 @@ function signUp(email){
 }
 
 // pegando email e cadastrando na plataforma
-function MostraMensage,(email){ 
+function MostraMensage(email){ 
     return 'Bem vindo ao Sistema' ;
 }
